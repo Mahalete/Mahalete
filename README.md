@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I am Mahalete, a Full Stack Web Development student at Business College Helsinki.
+This repo contains mosly project/assigments done during my study period,and others as additional practise .
+Some projects are also Machine Learning/Data Analytics projects done with Python in Jupiter Notebook.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalete&langs_count=8)](https://github.com/Mahalete/github-readme-stats)
+
+
 <!--
 **Mahalete/Mahalete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
